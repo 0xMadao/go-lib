@@ -4,6 +4,27 @@
 *.dll
 *.so
 *.dylib
+*.bak
+*.conf
+*.swp
+*.tmp
+*.log
+*.temp
+*.http
+*.sql
+.vscode
+test
+*.txt
+*.swo
+*.exe
+conf
+*.conf
+*.code-workspace
+tmp/
+*.DS_Store
+main
+
+
 
 # Test binary, built with `go test -c`
 *.test
